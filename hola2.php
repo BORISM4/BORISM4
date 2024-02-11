@@ -1,4 +1,4 @@
 <?php 
 
-echo "hola como estas hoy";
+echo "No me importa como estas la verdad";
 ?>
