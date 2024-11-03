@@ -8,9 +8,9 @@ Soy un desarrollador apasionado por la tecnología, he trabajado en diversos pro
 
 ### 🚀 Acerca de mí
 
-- 🔭 Actualmente trabajo en proyectos de desarrollo web y manejo de datos.
+- 🔭 Actualmente trabajo en proyectos de desarrollo web.
 - 🌱 Me encuentro en constante aprendizaje, actualmente profundizando en **Java**.
-- 🌎 **Idiomas**: Español e Inglés (Intermedio)
+- 🌎 **Idiomas**: Español e Inglés (Intermedio).
 
 ---
 
