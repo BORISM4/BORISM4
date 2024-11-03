@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Desarrollador
 
-Soy un desarrollador apasionado por la tecnología, he trabajado en diversos proyectos utilizando tecnologías como JavaScript, React, TypeScript, PHP y SQL, entre otros. Actualmente, me enfoco en mejorar mis habilidades y ampliar mi conocimiento en desarrollo de software.
+Soy un desarrollador apasionado por la tecnología, he trabajado en diversos proyectos utilizando tecnologías como JavaScript, React, TypeScript, PHP y SQL, entre otros. Soy estudiante y me enfoco en mejorar mis habilidades y ampliar mi conocimiento en desarrollo de software.
 
 --- 
 
@@ -20,13 +20,6 @@ Soy un desarrollador apasionado por la tecnología, he trabajado en diversos pro
 - **Backend**: Node.js, Express, PHP, MySQL
 - **DevOps**: Git
 - **Otras herramientas**: ESLint, Toastr, PHPMailer
-
----
-
-### 🛠️ Proyectos Destacados
-
-- **SkillSync**: Aplicación para la gestión de experiencia laboral y habilidades, con un sistema robusto de formularios y notificaciones en tiempo real.
-- **MayanVSupplements**: E-commerce donde se integran APIs para la visualización de productos, con un sistema de autenticación seguro y componentes personalizados.
 
 ---
 
