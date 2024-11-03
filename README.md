@@ -25,7 +25,7 @@ Soy un desarrollador apasionado por la tecnología, he trabajado en diversos pro
 
 ### 📈 En constante evolución
 
-Siempre estoy abierto a nuevos retos y oportunidades que me permitan crecer como profesional. Sigo atento a las nuevas tendencias y tecnologías en el ámbito del desarrollo de software, con la meta de aportar soluciones innovadoras y de alta calidad.
+Siempre estoy abierto a nuevos retos y oportunidades que me permitan crecer como profesional. Sigo atento a las nuevas tecnologías en el ámbito del desarrollo de software, con la meta de aportar soluciones innovadoras y de alta calidad.
 
 ---
 
