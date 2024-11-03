@@ -21,7 +21,7 @@ Soy un desarrollador apasionado por la tecnología, he trabajado en diversos pro
 [<img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="48"/>](https://www.typescriptlang.org/)
 [<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="48"/>](https://developer.mozilla.org/es/docs/Web/HTML)
 [<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="48"/>](https://developer.mozilla.org/es/docs/Web/CSS)
-[<img src="https://cdn.worldvectorlogo.com/logos/ant-design.svg" alt="Ant Design" width="48"/>](https://ant.design/)
+[<img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" alt="Ant Design" width="48"/>](https://ant.design/)
 [<img src="https://img.icons8.com/color/48/000000/material-ui.png" alt="Material UI" width="48"/>](https://mui.com/)
 
 ## Backend
