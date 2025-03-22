@@ -20,6 +20,7 @@ Soy un desarrollador apasionado por la tecnología, he trabajado en diversos pro
 - https://especialidadinformatica.com/
 - https://skillsync.frencho.dev/
 - https://www.mayanvitalitysupplements.com/
+- https://pa.especialidadinformatica.com/
 
 ---
 
