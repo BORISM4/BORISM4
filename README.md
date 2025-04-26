@@ -14,15 +14,7 @@ Soy un desarrollador apasionado por la tecnología, he trabajado en diversos pro
 
 ---
 
-### 📈 Experiencias
 
-- https://www.servielectric.com.sv/
-- https://especialidadinformatica.com/
-- https://skillsync.frencho.dev/
-- https://www.mayanvitalitysupplements.com/
-- https://pa.especialidadinformatica.com/
-
----
 
 # ⚙️ Habilidades Técnicas
 
